@@ -1,0 +1,7 @@
+C:\GitHubRepos\ListaVocalConsonante\ListaVocalConsonante\ListaVocalConsonante\obj\Debug\ListaVocalConsonante.csprojAssemblyReference.cache
+C:\GitHubRepos\ListaVocalConsonante\ListaVocalConsonante\ListaVocalConsonante\obj\Debug\ListaVocalConsonante.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\ListaVocalConsonante\ListaVocalConsonante\ListaVocalConsonante\bin\Debug\ListaVocalConsonante.exe.config
+C:\GitHubRepos\ListaVocalConsonante\ListaVocalConsonante\ListaVocalConsonante\bin\Debug\ListaVocalConsonante.exe
+C:\GitHubRepos\ListaVocalConsonante\ListaVocalConsonante\ListaVocalConsonante\bin\Debug\ListaVocalConsonante.pdb
+C:\GitHubRepos\ListaVocalConsonante\ListaVocalConsonante\ListaVocalConsonante\obj\Debug\ListaVocalConsonante.exe
+C:\GitHubRepos\ListaVocalConsonante\ListaVocalConsonante\ListaVocalConsonante\obj\Debug\ListaVocalConsonante.pdb

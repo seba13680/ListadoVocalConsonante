@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaVocalConsonante", "ListaVocalConsonante\ListaVocalConsonante.csproj", "{3A02BE0D-CFC2-47E7-9280-A845ADDBB4FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A02BE0D-CFC2-47E7-9280-A845ADDBB4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A02BE0D-CFC2-47E7-9280-A845ADDBB4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A02BE0D-CFC2-47E7-9280-A845ADDBB4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A02BE0D-CFC2-47E7-9280-A845ADDBB4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4C8D95F-E250-4431-A330-28F00AC4006E}
+	EndGlobalSection
+EndGlobal
